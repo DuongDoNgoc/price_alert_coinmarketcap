@@ -1,0 +1,1 @@
+py -3 %cd%\Price_Alert.py install
